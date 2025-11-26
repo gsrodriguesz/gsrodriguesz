@@ -1,34 +1,18 @@
-<img src="./img.png" style="margin: 2rem auto; width: 100%;">
-
-<h2 style="margin-top:5rem"> 👨‍💻 • About me </h2>
-<ul>
-    <li>🚀 → Learning React</li>
-    <li>🏫 → Student at IFSP-BRA</li>
-</ul>
-
-
-<h2 style="margin-top:5rem">🔧 • Skills</h2>
-<div align="center" style="display: flex; justify-content: center; margin: 2rem; flex-wrap: wrap;">
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width=50 height=40 style="margin: .25rem">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width=50 height=40 style="margin: .25rem">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width=50 height=40 style="margin: .25rem">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-plain.svg" width=50 height=40 style="margin: .25rem">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width=50 height=40 style="margin: .25rem">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width=50 height=40 style="margin: .25rem">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width=50 height=40 style="margin: .25rem">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width=50 height=40 style="margin: .25rem">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width=50 height=40 style="margin: .25rem">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" width=50 height=40 style="margin: .25rem">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width=50 height=40 style="margin: .25rem">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width=50 height=40 style="margin: .25rem">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width=50 height=40 style="margin: .25rem">
-</div>
-
-<h2 style="margin-top:5rem">🔢 • Numbers and 📈</h2>
+<br>
 <div align="center">
-
-![zmaderow's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsrodriguesz&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsrodriguesz&theme=transparent&layout=compact)](https://github.com/zmaderow)
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&letterSpacing=7px&duration=1000&pause=10&color=F7D718&center=true&multiline=true&repeat=false&width=800&height=120&lines=Sup+%F0%9F%91%8A%F0%9F%98%8E;+;Senior+at+Googling+errors+and+;pretending+I+knew+the+solution+all+along." width="100%" />
+<br><br>
+<pre>
+    🏫 IFSP • Informatic Technician
+    📅 Learning, building and breaking things since 2020 
+    💼 Full-Stack Dev • Designer
+</pre>
+<br>
+<img src="https://i.pinimg.com/originals/7f/ae/97/7fae97b0d62464f833f75a7cce0a9902.gif" height="100" align="right" />
+<img src="https://i.pinimg.com/originals/7f/ae/97/7fae97b0d62464f833f75a7cce0a9902.gif" height="100" align="center"/>
+<img src="https://i.pinimg.com/originals/7f/ae/97/7fae97b0d62464f833f75a7cce0a9902.gif" height="100" align="left" />
+<br><br><br>
+    
+[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/gustavo-rodrigues-a866b5273/)
+[![](https://img.shields.io/badge/email-69899c)](mailto:gustavoluizdsrodriguez@gmail.com)
 </div>
