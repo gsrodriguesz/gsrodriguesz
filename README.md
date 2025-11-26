@@ -26,8 +26,10 @@ const interests = {
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,figma,mysql,git" width="50%"/>
 </p>
+<a href="https://wakatime.com/@84525038-beeb-48cf-be00-5d48153d20c2"><img src="https://wakatime.com/badge/user/84525038-beeb-48cf-be00-5d48153d20c2.svg" alt="Total time coded since Aug 29 2023" /></a>
 <br>
-    
+
+
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/gustavo-rodrigues-a866b5273/)
 [![](https://img.shields.io/badge/email-69899c)](mailto:gustavoluizdsrodriguez@gmail.com)
 </div>
