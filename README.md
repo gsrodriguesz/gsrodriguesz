@@ -1,6 +1,6 @@
 <br>
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&letterSpacing=7px&duration=1000&pause=10&color=F7D718&center=true&multiline=true&repeat=false&width=800&height=120&lines=Sup+%F0%9F%91%8A%F0%9F%98%8E;+;Senior+at+Googling+errors+and+;pretending+I+knew+the+solution+all+along." width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&letterSpacing=7px&duration=1000&pause=10&color=F7D718&center=true&multiline=true&repeat=false&width=800&height=120&lines=Sup+%F0%9F%91%8A%F0%9F%98%8E;+;Senior+at+Googling+errors+and+;pretending+I+knew+the+solution+all+along." width="70%" />
 <br><br>
 <pre>
     🏫 IFSP • Informatic Technician
