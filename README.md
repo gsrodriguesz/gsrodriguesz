@@ -7,6 +7,21 @@
     📅 Learning, building and breaking things since 2020 
     💼 Full-Stack Dev • Designer
 </pre>
+<pre align="left">
+const interests = {
+  frontend: "Fixing one pixel and breaking the whole layout",
+  ui_ux: "Making it pretty before making it functional",
+  creativeCoding: "Experiments that should not be allowed",
+  cybersec: "Trying to hack my own code and still failing",
+  performance: "Optimizing things that were never slow",
+  debugging: "Staring at the screen until the bug gets scared",
+}
+// TODO: understand what I'm actually doing
+</pre>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,figma,mysql,git" width="50%"/>
+</p>
+
 <br>
 <img src="https://i.pinimg.com/originals/7f/ae/97/7fae97b0d62464f833f75a7cce0a9902.gif" height="100" align="right" />
 <img src="https://i.pinimg.com/originals/7f/ae/97/7fae97b0d62464f833f75a7cce0a9902.gif" height="100" align="center"/>
