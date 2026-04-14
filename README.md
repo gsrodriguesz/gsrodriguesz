@@ -107,16 +107,6 @@ const gustavo = {
 
 ---
 
-## 🏆 Achievements
-
-| 🥇 | Competition | Result |
-|----|-------------|--------|
-| 🏆 | Desafio de Programação IFSP-BRA | **1st place** |
-| 🥈 | INTERIF — Interinstitutional Programming Marathon | **1st local · 7th national** |
-| 🎯 | OBI — Brazilian Olympiad in Informatics | **Qualified for Phase 2** |
-
----
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gsrodriguesz&theme=github-compact&hide_border=true&area=true" width="95%"/>
 </div>
