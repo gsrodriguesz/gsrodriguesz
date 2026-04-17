@@ -51,7 +51,7 @@ const gustavo = {
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
       </p>
     </td>
-    <td width="50%">
+    <!-- <td width="50%">
       <h3>📊 Vant</h3>
       <p>Cross-platform desktop & mobile app for personal finance. Features fixed-income simulators, stock portfolio tracker, daily expense control and more.</p>
       <p>
@@ -60,7 +60,7 @@ const gustavo = {
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
       </p>
-    </td>
+    </td> -->
   </tr>
 </table>
 
